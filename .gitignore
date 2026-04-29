@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+**/.DS_Store
+
+# Compiled binaries (no extension)
+0xCRX101F/endianness
+
+# VS Code
+.vscode/
+
+# Object files & build artifacts
+*.o
+*.out
+*.dSYM/
